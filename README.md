@@ -1,4 +1,4 @@
-📊 Sales & Product Analytics Dashboard (Power BI)
+# 📊 Sales & Product Analytics Dashboard (Power BI)
 
 This repository showcases an end-to-end Power BI solution for analyzing sales, marketing, and product performance across 2022, 2023, and 2024.
 The dashboards provide executives and business stakeholders with data-driven insights to evaluate revenue trends, control costs, track customer engagement, and identify profitable products.
