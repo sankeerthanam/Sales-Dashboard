@@ -1,7 +1,7 @@
 # 📊 Sales & Product Analytics Dashboard (Power BI)
 
-This repository showcases an end-to-end Power BI solution for analyzing sales, marketing, and product performance across 2022, 2023, and 2024.
-The dashboards provide executives and business stakeholders with data-driven insights to evaluate revenue trends, control costs, track customer engagement, and identify profitable products.
+- This repository showcases an end-to-end Power BI solution for analyzing sales, marketing, and product performance across 2022, 2023, and 2024.
+- The dashboards provide executives and business stakeholders with data-driven insights to evaluate revenue trends, control costs, track customer engagement, and identify profitable products.
 
 🎯 Project Objectives
 
@@ -16,11 +16,11 @@ The dashboards provide executives and business stakeholders with data-driven ins
 
 * KPIs at a glance: Revenue, Cost, Profit, Conversion Rate, and Views.
 * Revenue Analysis:
-   Monthly revenue trends.
-   Revenue by lead source (Email, Social Media, Referral, Cold Calling, Website).
-   Revenue by channel (Online vs. In-Store).
-   Revenue by region and country sessions.
-   Marketing Campaign Effectiveness: Tracks ROI across Winter Promo, Fall Sales, Spring Promo, New Year Campaign, and Summer Deals.
+  -  Monthly revenue trends.
+  -  Revenue by lead source (Email, Social Media, Referral, Cold Calling, Website).
+  -  Revenue by channel (Online vs. In-Store).
+  -  Revenue by region and country sessions.
+  -  Marketing Campaign Effectiveness: Tracks ROI across Winter Promo, Fall Sales, Spring Promo, New Year Campaign, and Summer Deals.
 
 2️⃣ Product Dashboard
 
@@ -32,7 +32,7 @@ The dashboards provide executives and business stakeholders with data-driven ins
 
 📈 Overall Trends (2022–2024)
 
-* 8The business peaked in 2023 with revenue of $629.5K before experiencing a sharp decline in 2024.
+* The business peaked in 2023 with revenue of $629.5K before experiencing a sharp decline in 2024.
 * Online channels consistently drove ~66–68% of revenue, confirming the need for ongoing investment in e-commerce.
 * Europe & Asia remained the most profitable regions across all years, while North America steadily improved.
 * Marketing effectiveness weakened in 2024, with campaign contributions shrinking vs. prior years.
