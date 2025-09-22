@@ -11,6 +11,8 @@
 * Monitor product-level performance including views, revenue, cost, and profitability.
 * Enable better decision-making through actionable insights and storytelling with data.
 
+<img width="670" height="400" alt="SD1" src="https://github.com/user-attachments/assets/05d20d05-39fa-4c4e-8bdb-623089a5027e" />
+
 📌 Key Dashboards
 1️⃣ Sales & Marketing Dashboard
 
@@ -21,6 +23,9 @@
   -  Revenue by channel (Online vs. In-Store).
   -  Revenue by region and country sessions.
   -  Marketing Campaign Effectiveness: Tracks ROI across Winter Promo, Fall Sales, Spring Promo, New Year Campaign, and Summer Deals.
+
+<img width="671" height="402" alt="SD2" src="https://github.com/user-attachments/assets/fe60b25d-e534-444a-a949-82380c9ea224" />
+
 
 2️⃣ Product Dashboard
 
