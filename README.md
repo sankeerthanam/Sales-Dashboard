@@ -37,13 +37,6 @@
 
 📈 Overall Trends (2022–2024)
 
-* The business peaked in 2023 with revenue of $629.5K before experiencing a sharp decline in 2024.
-* Online channels consistently drove ~66–68% of revenue, confirming the need for ongoing investment in e-commerce.
-* Europe & Asia remained the most profitable regions across all years, while North America steadily improved.
-* Marketing effectiveness weakened in 2024, with campaign contributions shrinking vs. prior years.
-
-📈 Overall Trends (2022–2024)
-
 * Business peaked in 2023, then declined sharply in 2024.
 * Online sales consistently contributed ~66–68% of total revenue.
 * Europe & Asia were consistently high-value markets; North America showed improvement.
